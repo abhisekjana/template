@@ -1,0 +1,12 @@
+body {
+  background-color: #ffffff;
+}
+.header {
+  margin-top: 10px;
+}
+.header #content {
+  margin-top: 20px;
+}
+.header #content .badge {
+  background-color: #3A87AD;
+}
